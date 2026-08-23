@@ -1,4 +1,14 @@
-# Hi, I'm Rahul 👋
+<!-- Animated banner — auto-generates, no image file needed -->
+<p align="center">
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=0:1e3a5f,100:2563eb&height=180&section=header&text=Hi,%20I'm%20Rahul%20👋&fontSize=42&fontColor=ffffff&animation=fadeIn&fontAlignY=38&desc=Software%20Engineer%20·%20Test%20Automation%20+%20Applied%20ML&descAlignY=58&descSize=18" alt="header banner" />
+</p>
+
+<!-- Typing animation — cycles through your focus areas -->
+<p align="center">
+  <a href="https://github.com/rahulC12">
+    <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=20&pause=1000&color=2563EB&center=true&vCenter=true&width=600&lines=Test+Automation+%26+Validation+Engineer;Applying+ML%2FLLMs+to+Log+Analysis;Python+%C2%B7+FastAPI+%C2%B7+C%23+%C2%B7+Angular;Building+smarter+test+infrastructure" alt="Typing SVG" />
+  </a>
+</p>
 
 Software Engineer working at the intersection of test automation and applied ML. I build tooling for firmware testing and lab automation, and I'm increasingly applying ML/LLMs to make that infrastructure smarter — anomaly detection in test results, automated log analysis, and reducing the manual triage load on large test suites.
 
@@ -28,5 +38,11 @@ Software Engineer working at the intersection of test automation and applied ML.
 - LinkedIn: [rahul-pradip-choudhary](https://linkedin.com/in/rahul-pradip-choudhary-25b57621b)
 - Email: (add your professional email here)
 
----
-<sub>Currently focused on test automation reliability and remote lab tooling.</sub>
+<!-- Animated contribution snake — see setup note in 04-snake-animation-setup.md -->
+<p align="center">
+  <img src="https://raw.githubusercontent.com/rahulC12/rahulC12/output/github-contribution-grid-snake.svg" alt="contribution snake animation" />
+</p>
+
+<p align="center">
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=0:2563eb,100:1e3a5f&height=100&section=footer" alt="footer banner" />
+</p>
