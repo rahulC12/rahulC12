@@ -36,7 +36,7 @@ Software Engineer working at the intersection of test automation and applied ML.
 ## Get in touch
 
 - LinkedIn: [rahul-pradip-choudhary](https://linkedin.com/in/rahul-pradip-choudhary-25b57621b)
-- Email: (add your professional email here)
+- Email: rahulpradipchoudhary9860@gmail.com
 
 <!-- Animated contribution snake — see setup note in 04-snake-animation-setup.md -->
 <p align="center">
